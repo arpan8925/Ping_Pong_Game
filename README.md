@@ -31,7 +31,7 @@ A classic two-player Ping Pong game built using Python and the Turtle Graphics m
    ```
 4. Use the following controls:
    - **Player 1**: Move paddle up and down using the `A` and `D` keys.
-   - **Player 2**: Move paddle up and down using the `Up Arrow` and `Down Arrow` keys.
+   - **Player 2**: Move paddle up and down using the `Right Arrow` and `Left Arrow` keys.
 
 ---
 
