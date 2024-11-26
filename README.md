@@ -2,7 +2,7 @@
 
 A classic two-player Ping Pong game built using Python and the Turtle Graphics module. This project is a fun implementation of the timeless arcade game and serves as an excellent learning project for game development enthusiasts.
 
-![Ping Pong Game Screenshot](./path-to-screenshot.png)
+![Ping Pong Game Screenshot](./images/Screenshot_43.png)
 
 ---
 
